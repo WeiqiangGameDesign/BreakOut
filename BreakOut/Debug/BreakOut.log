@@ -1,0 +1,48 @@
+﻿  main.cpp
+D:\vsrepo\BreakOut\BreakOut\CollisionDetectUtil.h(62,2): warning C4091: 'static ': ignored on left of 'CollisionDetectUtil' when no variable is declared
+D:\vsrepo\BreakOut\BreakOut\main.cpp(26,50): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\vsrepo\BreakOut\BreakOut\main.cpp(26,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\vsrepo\BreakOut\BreakOut\main.cpp(80,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\vsrepo\BreakOut\BreakOut\main.cpp(80,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\vsrepo\BreakOut\BreakOut\main.cpp(83,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\vsrepo\BreakOut\BreakOut\main.cpp(182,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vsrepo\BreakOut\BreakOut\main.cpp(182,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vsrepo\BreakOut\BreakOut\main.cpp(243,19): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\vsrepo\BreakOut\BreakOut\main.cpp(283,22): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\BreakOut\BreakOut\main.cpp(284,23): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\BreakOut\BreakOut\main.cpp(306,23): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\BreakOut\BreakOut\main.cpp(307,24): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\BreakOut\BreakOut\main.cpp(324,22): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\BreakOut\BreakOut\main.cpp(325,23): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\BreakOut\BreakOut\main.cpp(343,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\vsrepo\BreakOut\BreakOut\main.cpp(361,23): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\BreakOut\BreakOut\main.cpp(362,24): warning C4018: '<': signed/unsigned mismatch
+  BreakOut.vcxproj -> D:\vsrepo\BreakOut\Debug\BreakOut.exe
